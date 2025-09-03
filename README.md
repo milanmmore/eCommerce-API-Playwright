@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+
 # eCommerce-API-Playwright
-Test Assignment for API Testing from QA portfolio
-=======
+
+# Test Assignment for API Testing from QA portfolio
+
 # DummyJSON API Test Suite
 
 Automated API tests using Playwright Test for DummyJSON e-commerce endpoints.
@@ -18,4 +20,5 @@ Automated API tests using Playwright Test for DummyJSON e-commerce endpoints.
 ```bash
 npx playwright test
 ```
->>>>>>> fc543e0 (first draft)
+
+> > > > > > > fc543e0 (first draft)
